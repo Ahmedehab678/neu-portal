@@ -1,0 +1,9 @@
+{
+  "name": "neu-student-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "بوابة الخدمات الطلابية - جامعة مصر الجديدة",
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.13" }
+}
